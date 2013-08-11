@@ -1,0 +1,5 @@
+# files and directories to be excluded from the git versioning
+*~
+*.pyc
+docs/_build
+
