@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,9 +122,10 @@
        transform="translate(82.84375,37.15625)"><flowRegion
          id="flowRegion3127"><rect
            id="rect3129"
-           width="121.21831"
-           height="30.809656"
+           width="292.94424"
+           height="51.012711"
            x="-6.5659914"
            y="186.3593" /></flowRegion><flowPara
-         id="flowPara3131">mountaineer.svg</flowPara></flowRoot>  </g>
+         id="flowPara3131">mountaineer.svg</flowPara><flowPara
+         id="flowPara3348">Copyright 2013  Charlyoleg  CC BY-SA 3.0</flowPara></flowRoot>  </g>
 </svg>

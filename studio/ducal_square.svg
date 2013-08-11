@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="941.7904"
-     inkscape:cy="487.14286"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="817.41401"
+     inkscape:cy="45.120441"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,13 +60,14 @@
        transform="translate(20.203051,1245.067)"><flowRegion
          id="flowRegion2987"><rect
            id="rect2989"
-           width="504.07544"
-           height="118.03917"
+           width="1183.3185"
+           height="326.95721"
            x="-8.5714283"
            y="-123.23961"
            style="font-size:40px" /></flowRegion><flowPara
          id="flowPara2991">ducal_square.svg </flowPara><flowPara
-         id="flowPara2993">(A2)</flowPara></flowRoot>    <path
+         id="flowPara2993">format: A2</flowPara><flowPara
+         id="flowPara3020">Copyright  2013  Charlyoleg  CC BY-SA 3.0</flowPara></flowRoot>    <path
        style="color:#000000;fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 393.95949,1439.7016 -6.06091,-123.2386 20.20305,-40.4061 8.08122,-145.4619 4.04061,-141.42139 10.10152,-159.6041 -355.573692,-117.1777 -22.223356,197.9899 -18.182745,185.86809 -10.101526,204.0508 8.08122,173.7462 z"
        id="path3130"
@@ -247,27 +248,27 @@
     <image
        sodipodi:absref="/home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/wild_pig.svg"
        xlink:href="library/wild_pig.svg"
-       y="562.7193"
-       x="1408.5715"
-       id="image3140"
+       width="360"
        height="265"
-       width="360" />
+       id="image3140"
+       x="1408.5715"
+       y="562.7193" />
     <!-- xlink:href="file:///home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/wild_pig.svg" -->
     <image
        sodipodi:absref="/home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/lizard.svg"
        xlink:href="library/lizard.svg"
-       y="388.93359"
-       x="20.500034"
-       id="image3062"
+       width="399"
        height="544"
-       width="399" />
+       id="image3062"
+       x="20.500034"
+       y="388.93359" />
     <image
        sodipodi:absref="/home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/torero.svg"
        xlink:href="library/torero.svg"
-       width="415"
-       height="517"
-       id="image3078"
+       y="451.00504"
        x="852.5"
-       y="451.00504" />
+       id="image3078"
+       height="517"
+       width="415" />
   </g>
 </svg>

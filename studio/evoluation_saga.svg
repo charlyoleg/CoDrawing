@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,12 +60,14 @@
        transform="translate(0,-435.82681)"><flowRegion
          id="flowRegion2987"><rect
            id="rect2989"
-           width="425.71429"
-           height="122.85716"
+           width="885.71429"
+           height="191.4286"
            x="8.5714283"
            y="1565.3318"
            style="font-size:40px" /></flowRegion><flowPara
-         id="flowPara2991">evolution_saga.svg</flowPara></flowRoot>    <path
+         id="flowPara2991">evolution_saga.svg</flowPara><flowPara
+         id="flowPara3086">format: A2</flowPara><flowPara
+         id="flowPara3088">Copyright 2013  Charlyoleg  CC BY-SA 3.0</flowPara></flowRoot>    <path
        style="color:#000000;fill:#c8c4b7;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 8.5714286,348.18896 C 28.571429,313.90325 111.42857,131.04611 111.42857,131.04611 L 120,53.903251 222.85714,268.18896 l 60,-122.85714 82.85715,94.28572 L 440,53.903251 l 57.14286,102.857139 85.71428,-51.42857 60,-51.428569 165.71429,288.571429 c 0,0 139.76276,218.8683 248.57147,280 167.9137,94.33852 376.0683,108.96905 568.5714,102.85714 91.1939,-2.89538 260,-48.57143 265.7143,-65.71428 5.7143,-17.14286 37.1428,-291.42858 37.1428,-291.42858 l 57.1429,45.71429 28.5714,-71.42857 28.5715,105.71429 22.8571,-60 45.7143,-25.71429 -2.8572,571.42857 -2094.285686,20 L 2.857143e-7,685.33182 -2.8571429,299.61753 z"
        id="path2993"
@@ -80,20 +82,22 @@
        transform="translate(0,-435.82681)"
        sodipodi:nodetypes="cacaaaccccccc" />
     <image
+       sodipodi:absref="/home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/wild_pig.svg"
+       xlink:href="library/wild_pig.svg"
        y="628.43359"
        x="1351.4286"
        id="image3075"
-       xlink:href="library/wild_pig.svg"
        height="265"
        width="360" />
-       <!-- xlink:href="file:///home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/wild_pig.png" -->
+    <!-- xlink:href="file:///home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/wild_pig.png" -->
     <image
+       sodipodi:absref="/home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/mountaineer.svg"
+       xlink:href="library/mountaineer.svg"
        y="-222.06639"
        x="711.21429"
        id="image3211"
-       xlink:href="library/mountaineer.svg"
        height="166"
        width="149" />
-       <!-- xlink:href="file:///home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/mountaineer.png" -->
+    <!-- xlink:href="file:///home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/mountaineer.png" -->
   </g>
 </svg>

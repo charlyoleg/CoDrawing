@@ -108,13 +108,13 @@ Licensing
 
 To improve the efficiency and the accuracy of the licensing, when you create a new file, add in comment of the file (namely outside the *page* in a *SVG*) the following line::
 
-    (C) YYYY  YourName  CC BY-SA 3.0
+    Copyright YYYY  YourName  CC BY-SA 3.0
 
 With *YYYY* the current year and *YourName* your real name, artist name or pseudo.
 
 If you modify an existing file, add the current year if it is not yet present and add your name and pseudo::
 
-    (C) 2012, 2013  Tom Grant, Lucas Spring  CC BY-SA 3.0
+    Copyright 2012, 2013  Tom Grant, Lucas Spring  CC BY-SA 3.0
   
 
 View the drawing evolution

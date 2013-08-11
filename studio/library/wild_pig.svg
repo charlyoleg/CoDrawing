@@ -120,11 +120,12 @@
        style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"><flowRegion
          id="flowRegion10852"><rect
            id="rect10854"
-           width="140.71428"
-           height="47.857143"
+           width="275.71426"
+           height="48.571434"
            x="48.57143"
            y="310.93362" /></flowRegion><flowPara
-         id="flowPara10856">wild_big.svg</flowPara></flowRoot>    <path
+         id="flowPara10856">wild_big.svg</flowPara><flowPara
+         id="flowPara3524">Copyright 2013  Charlyoleg  CC BY-SA 3.0</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ff5555;stroke:#ff8080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M -81.428572,74.59375 -72.142857,53.879464 -65,71.736607 l 23.571429,-3.571428 -23.571429,20 3.571429,27.142861 -16.428572,-21.428576 -20,4.285715 L -85,84.59375 l -17.14286,-15 z"
        id="path2995"
