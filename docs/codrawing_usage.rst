@@ -64,7 +64,7 @@ We mostly rely on Inkscape_ to create the SVG_ files. So we don't really need to
 
  - absolute path to an external SVG file::
 
-    xlink:href="file:///home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/wild_pig.svg"
+    xlink:href="file:///home/roberto/GitHubStuff/CoDrawing/studio/library/wild_pig.svg"
 
  - relative path to an external SVG file::
 

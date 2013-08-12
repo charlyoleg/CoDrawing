@@ -24,7 +24,7 @@ How to start?
 - Clone the `CoDrawing repository`_
 - Choose a drawing in the directory *studio*
 - Add your drawing touch
-- Use the GitHub_ facilities to share your work
+- Use GitHub_ to share your work
 
 
 Feedback / Contact
