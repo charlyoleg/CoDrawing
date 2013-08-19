@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="817.41401"
-     inkscape:cy="45.120441"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="1505.1254"
+     inkscape:cy="384.71978"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -246,26 +246,36 @@
        transform="translate(0,-435.82681)"
        sodipodi:nodetypes="ccc" />
     <image
+       sodipodi:absref="/home/zoe/Documents/dessin/CoDrawing_2013_08_18/CoDrawing/studio/library/wild_pig.svg"
        xlink:href="library/wild_pig.svg"
-       width="360"
-       height="265"
-       id="image3140"
+       y="562.7193"
        x="1408.5715"
-       y="562.7193" />
+       id="image3140"
+       height="265"
+       width="360" />
     <!-- xlink:href="file:///home/charli/Bis/Project/CardanCo/Charlyoleg_Github/CoDrawing/studio/library/wild_pig.svg" -->
     <image
+       sodipodi:absref="/home/zoe/Documents/dessin/CoDrawing_2013_08_18/CoDrawing/studio/library/lizard.svg"
        xlink:href="library/lizard.svg"
-       width="399"
-       height="544"
-       id="image3062"
+       y="388.93359"
        x="20.500034"
-       y="388.93359" />
+       id="image3062"
+       height="544"
+       width="399" />
     <image
+       sodipodi:absref="/home/zoe/Documents/dessin/CoDrawing_2013_08_18/CoDrawing/studio/library/torero.svg"
        xlink:href="library/torero.svg"
-       y="451.00504"
-       x="852.5"
-       id="image3078"
+       width="415"
        height="517"
-       width="415" />
+       id="image3078"
+       x="852.5"
+       y="451.00504" />
+    <image
+       y="515.47882"
+       x="1652.1503"
+       id="image3162"
+       xlink:href="library/spectatrice.svg"
+       height="500"
+       width="407" />
   </g>
 </svg>
