@@ -20,7 +20,7 @@ For me, drawing is a skill as important as the ability to write. A drawing can b
 ZoeZiris
 ========
 
-I'm an anthousiast beginner with Inkscape.
+I'm an anthousiast beginner with Inkscape. CoDrawing is an attractive concept that I want to experiment.
 
 
 
