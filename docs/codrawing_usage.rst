@@ -131,5 +131,13 @@ The script *scr/drawing_evolution.py* will create a series of picture that show 
 .. _PNG : http://www.libpng.org/pub/png/
 .. _FireFox : http://www.mozilla.org
 
+SVG viewers
+===========
+
+Possible tools to watch a SVG_ file::
+
+  > inkscape myfile.svg  # you see adn you can edit the file
+  > inkview myfile.svg   # much faster than inkscape
+  > firefox              # use a URL looking like file:///home/.../myfile.svg
 
 
