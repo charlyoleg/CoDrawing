@@ -17,4 +17,10 @@ For me, drawing is a skill as important as the ability to write. A drawing can b
 .. _MesCarottes.com : http://www.mescarottes.com/
 .. _`documentation draft` : http://www.cardanco.com/blog/innovative-project-documentation.html
 
+ZoeZiris
+========
+
+I'm an anthousiast beginner with Inkscape.
+
+
 
